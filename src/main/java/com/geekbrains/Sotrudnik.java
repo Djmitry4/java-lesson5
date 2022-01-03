@@ -18,6 +18,3 @@ public class Sotrudnik {
         this.age = age;
     }
 }
-
-
-
